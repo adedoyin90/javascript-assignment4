@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "name": "Paris",
+    "description": "The City of Lights"
+  },
+  {
+    "id": 2,
+    "name": "Tokyo",
+    "description": "Vibrant and Bustling"
+  },
+  {
+    "id": 3,
+    "name": "New York",
+    "description": "The Big Apple'"
+  },
+  {
+    "id": 4,
+    "name": "London",
+    "description": "Historic and Cultural"
+  },
+  {
+    "id": 5,
+    "name": "Rome",
+    "description": "Eternal City"
+  },
+  {
+    "id": 6,
+    "name": "Sydney",
+    "description": "Harbor City"
+  }
+]
+  
