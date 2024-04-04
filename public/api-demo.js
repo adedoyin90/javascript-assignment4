@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
     async function fetchData() {
         try {
             // Make a fetch request to the server
-            const response = await fetch('/api/data');
+            const response = await fetch('/api/destinations');
 
             // Check if the response is successful
             if (!response.ok) {
